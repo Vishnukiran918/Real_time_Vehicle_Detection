@@ -6,7 +6,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-model = keras.models.load_model('C://Users//CH Vishnukiran//Desktop//mit//app//models//vehicle_classification_model.h5')
+model = keras.models.load_model('C:\\Users\\CH Vishnukiran\\Desktop\\Real_time_Vehicle_Detection\\mit\\app\\models\\vehicle_classification_model.h5')
 
 classes = {0: 'bus',
            1: 'car',
