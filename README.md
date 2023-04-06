@@ -18,6 +18,7 @@
 
 
 #How to run:
+#make sure to change the path of the video and both the xml files in final.py
 #Go to the src directory
 #run the final.py file
 
