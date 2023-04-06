@@ -14,7 +14,7 @@
 #THen type python main.py(AS it is a flask application)
 
 #opencv:--
-#This folder contains code that was used for real time detection of vehicles like car etc.. adn it also calculates the distance from our vehicle and gives instructions like steer,brake etc..
+#This folder contains code that was used for real time detection of vehicles like car etc.. adn it also calculates the distance from our vehicle and gives instructions like steer,brake in the TERMINAL etc..
 
 
 #How to run:
